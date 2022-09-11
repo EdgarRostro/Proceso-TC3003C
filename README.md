@@ -1,13 +1,13 @@
 # Proceso-TC3003C
 
 ## Conceptos de Modelado
-- [ ] Mapas de Texturas
-- [ ] Materiales
-- [ ] Mapas UV
+- [x] Mapas de Texturas
+- [x] Materiales
+- [x] Mapas UV
 - [ ] Herramientas de modelado
 
 ## Workflow y Organización
-- [ ] Puglins de modelado
+- [x] Puglins de modelado
 
 ## Animación y Sonido
 - [ ] Principios de Animación
@@ -16,6 +16,6 @@
 - [ ] Sonido como experiencia dentro de los videojuegos
 
 ## Inclusión de Personajes
-- [ ] Proceso de creacion digital del personaje
-- [ ] Esqueletos en un personaje
-- [ ] Animación de personaje usando esqueleto
+- [x] Proceso de creacion digital del personaje
+- [x] Esqueletos en un personaje
+- [x] Animación de personaje usando esqueleto
