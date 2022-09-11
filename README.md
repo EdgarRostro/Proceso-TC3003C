@@ -1,6 +1,6 @@
 # Proceso-TC3003C
 
-## Conceptos de Modelado [Link](/Conceptos%20de%20Modelado)
+## [Conceptos de Modelado](/Conceptos%20de%20Modelado)
 - [x] Mapas de Texturas
 - [x] Materiales
 - [x] Mapas UV
