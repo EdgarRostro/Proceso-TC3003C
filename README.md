@@ -6,8 +6,8 @@
 - [Mapas UV](/Conceptos%20de%20Modelado/ActMateriales)
 - [Herramientas de modelado](/Conceptos%20de%20Modelado/ModeladoTXT)
 
-## [Workflow y Organización](/Workflow%20y%20Organizacion)
-- [x] Puglins de modelado
+## Workflow y Organización
+- [Puglins de modelado](/Workflow%20y%20Organizacion/ActProBuilder)
 
 ## Animación y Sonido
 - [ ] Principios de Animación
@@ -15,7 +15,7 @@
 - [ ] Keyframes y Modificadores
 - [ ] Sonido como experiencia dentro de los videojuegos
 
-## [Inclusión de Personajes](/Inclusion%20de%20Personajes)
+## Inclusión de Personajes
 - [x] Proceso de creacion digital del personaje
 - [x] Esqueletos en un personaje
 - [x] Animación de personaje usando esqueleto
