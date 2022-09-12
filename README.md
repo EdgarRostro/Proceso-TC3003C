@@ -1,10 +1,10 @@
 # Proceso-TC3003C
 
-## [Conceptos de Modelado](/Conceptos%20de%20Modelado)
-- [x] Mapas de Texturas
-- [x] Materiales
-- [x] Mapas UV
-- [x] Herramientas de modelado
+## Conceptos de Modelado
+- [Mapas de Texturas](/Conceptos%20de%20Modelado/ActMateriales)
+- [Materiales](/Conceptos%20de%20Modelado/ActMateriales)
+- [Mapas UV](/Conceptos%20de%20Modelado/ActMateriales)
+- [Herramientas de modelado](/Conceptos%20de%20Modelado/ModeladoTXT)
 
 ## [Workflow y Organización](/Workflow%20y%20Organizacion)
 - [x] Puglins de modelado
