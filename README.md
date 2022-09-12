@@ -4,7 +4,7 @@
 - [x] Mapas de Texturas
 - [x] Materiales
 - [x] Mapas UV
-- [ ] Herramientas de modelado
+- [x] Herramientas de modelado
 
 ## [Workflow y Organización](/Workflow%20y%20Organizacion)
 - [x] Puglins de modelado
