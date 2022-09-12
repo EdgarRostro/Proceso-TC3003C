@@ -16,6 +16,6 @@
 - [ ] Sonido como experiencia dentro de los videojuegos
 
 ## Inclusión de Personajes
-- [x] Proceso de creacion digital del personaje
-- [x] Esqueletos en un personaje
-- [x] Animación de personaje usando esqueleto
+- [Proceso de creacion digital del personaje](/Inclusion%20de%20Personajes/ActMoverPersonaje)
+- [Esqueletos en un personaje](/Inclusion%20de%20Personajes/ActMoverPersonaje)
+- [Animación de personaje usando esqueleto](/Inclusion%20de%20Personajes/ActMoverPersonaje)
