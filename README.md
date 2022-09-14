@@ -10,10 +10,10 @@
 - [Puglins de modelado](/Workflow%20y%20Organizacion/ActProBuilder)
 
 ## Animación y Sonido
-- [ ] Principios de Animación
-- [ ] Líneas de tiempo
-- [ ] Keyframes y Modificadores
-- [ ] Sonido como experiencia dentro de los videojuegos
+- [Principios de Animación](/Animacion%20Y%20Sonido/Minimundo)
+- [Líneas de tiempo](/Animacion%20Y%20Sonido/ActTimeline)
+- [Keyframes y Modificadores](/Animacion%20Y%20Sonido/Minimundo)
+- [Sonido como experiencia dentro de los videojuegos](/Animacion%20Y%20Sonido/ActSonido)
 
 ## Inclusión de Personajes
 - [Proceso de creacion digital del personaje](/Inclusion%20de%20Personajes/ActMoverPersonaje)
